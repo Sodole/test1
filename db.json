@@ -1,1 +1,18 @@
-{}
+{
+  "mycar": [
+    {
+      "id": 1,
+      "speed": 60,
+      "battery": 80,
+      "color": "#FF0000",
+      "created_at": "2023-02-01"
+    },
+    {
+      "speed": 20,
+      "battery": 70,
+      "color": "#FF0000",
+      "created_at": "2023-02-01",
+      "id": 2
+    }
+  ]
+}
